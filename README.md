@@ -1,6 +1,6 @@
 # Resources
 
-Here is a list of things I've found interesting. Helpful links for programming, interesting artciles, fun sites. Let me know if you 
+Here is a list of things I've found interesting. Helpful links for programming, interesting articles, fun sites. Let me know if you have any that you think I should add!
 
 ## Programming/Software Development/Professional Development
 
@@ -20,6 +20,7 @@ Here is a list of things I've found interesting. Helpful links for programming, 
 - Advent of Code - http://adventofcode.com/
 - Text Files - http://textfiles.com/
 - Python Podcast - https://talkpython.fm/
+- Git - https://git-scm.com/
 
 ### Computer Science/Basics
 
