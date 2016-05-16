@@ -22,9 +22,13 @@ Here is a list of things I've found interesting. Helpful links for programming, 
 - Python Podcast - https://talkpython.fm/
 - Git - https://git-scm.com/
 
+### Practice Programming Problems
+- Interview Questions for Different Languages and topics - https://github.com/MaximAbramchuck/awesome-interviews
+- Project Euler - https://projecteuler.net
+- Advent of Code - http://adventofcode.com
+
 ### Computer Science/Basics
 
-- Interview Questions for Different Languages and topics - https://github.com/MaximAbramchuck/awesome-interviews
 - Sorting Algorithms - http://sorting-algorithms.com/
 - Computer Science Field Guide - http://www.csfieldguide.org.nz/en/index.html
 - What CS Majors Should Know - http://matt.might.net/articles/what-cs-majors-should-know/
@@ -51,5 +55,3 @@ Here is a list of things I've found interesting. Helpful links for programming, 
 ## Making
 - How to Make a Soy Candle - https://www.candlescience.com/learning/how-to-make-a-soy-candle
 - Knitting Myself Back Together - http://www.buzzfeed.com/alannaokun/knitting-myself-back-together
-
-
