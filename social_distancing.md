@@ -47,6 +47,9 @@ Resources/Ideas of what to do with time while social distancing
 - PS3/4
 - Steam
 
+### WATCH A TV SHOW
+- Love island
+
 ### TAKE A NUTRITION CLASS
 
 ### BAKE/COOK
@@ -66,3 +69,9 @@ Resources/Ideas of what to do with time while social distancing
 ## ARTICLES
 - [Anxiety - breathing](https://rightasrain.uwmedicine.org/mind/stress/why-deep-breathing-makes-you-feel-so-chill)
 - [Social distancing](https://medium.com/@ariadnelabs/social-distancing-this-is-not-a-snow-day-ac21d7fa78b4)
+
+## THINGS TO HELP YOU FEEL CALM
+- Essential Oils - Stress Relief, Immune Boost, etc
+- CBD - tincture, tea
+- Light a candle
+- Calming music
