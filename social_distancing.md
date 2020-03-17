@@ -75,3 +75,4 @@ Resources/Ideas of what to do with time while social distancing
 - CBD - tincture, tea
 - Light a candle
 - Calming music
+  - Lo Fi [Playlist](https://open.spotify.com/playlist/5RtIoZHMy9nfJ8mCNGceFy?si=byr0kziLQsWazhbroSLQEQ)
