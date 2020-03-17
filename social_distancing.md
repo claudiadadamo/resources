@@ -7,6 +7,8 @@ Resources/Ideas of what to do with time while social distancing
 - [Core Power Yoga classes](https://www.corepoweryogaondemand.com/keep-up-your-practice)
 - [Down Dog Yoga/HIIT workouts](https://www.downdogapp.com/) - All of their apps are free till April 1
 - [YogaWorks online membership](myyogaworks.com/subscribe) - code ONLINE to access content for free
+- [YogiApproved](https://www.yogiapproved.com/) - code STAYATHOME for free month
+- [Do Yoga With Me](https://www.doyogawithme.com/)
 - Influencers offering % off their ebooks/Home workout videos - Lots of instagram fitness accounts are offering discounts on their workout ebooks as well as posting home workout videos on instagram
   - Hanna Oeberg - 25% ebook
   - Rachaels Good Eats - %20 ebook
