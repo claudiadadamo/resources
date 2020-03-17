@@ -8,10 +8,11 @@ Resources/Ideas of what to do with time while social distancing
 - Down Dog Yoga/HIIT workouts - All of their apps are free till April
 - [YogaWorks online membership](myyogaworks.com/subscribe) - code ONLINE to access content for free
 - Influencers offering % off their ebooks/Home workout videos - Lots of instagram fitness accounts are offering discounts on their workout ebooks as well as posting home workout videos on instagram
-  - Hanna Oeberg
-  - Rachaels Good Eats
-  - Whitney Simmons
-  - Mari Llewellen
+  - Hanna Oeberg - 25% ebook
+  - Rachaels Good Eats - %20 ebook
+  - Whitney Simmons (Her app has a 7 day free trial)
+  - [Mari Llewellen](https://marieasyfitness.com/collections/my-product/products/home-guide) Weight Training - ebooks are $10 each
+  - Kayla Itsines - Sweat BBG at Home
 
 ### MEDITATION
 - Shine App
@@ -76,3 +77,4 @@ Resources/Ideas of what to do with time while social distancing
 - Light a candle
 - Calming music
   - Lo Fi [Playlist](https://open.spotify.com/playlist/5RtIoZHMy9nfJ8mCNGceFy?si=byr0kziLQsWazhbroSLQEQ)
+  - Peaceful Meditation [Playlist](https://open.spotify.com/playlist/37i9dQZF1DWZqd5JICZI0u?si=IAD72z5gR62kH5-3lVaPbA)
